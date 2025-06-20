@@ -57,6 +57,7 @@
         }
       ],
       "title": "Frequently Asked Questions",
+      "enabled": true,
       "subtitle": "Get instant answers about our precision manufacturing capabilities"
     },
     "stats": {
