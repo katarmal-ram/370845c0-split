@@ -11,7 +11,7 @@
     "enabled": true,
     "subtitle": "Delivering High-Quality Precision Components for Critical Industrial Applications",
     "backgroundImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=2000&q=80",
-    "backgroundVideo": null
+    "backgroundVideo": "https://example.com/video.mp4"
   },
   "meta": {
     "title": "Momai Brass - Precision Component Manufacturing | Industrial Solutions",
